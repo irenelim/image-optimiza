@@ -21,3 +21,5 @@
 > node node-image-min.js 
 
 > node node-sharp.js  
+
+use **sharp** first, and the optimise the image by using **imagemin**
